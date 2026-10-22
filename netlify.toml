@@ -1,0 +1,3 @@
+[build]
+ publish = "dist"
+ command = "mpm run build"
